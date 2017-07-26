@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "996456425689",
+    "firebase_url": "https://project1-f23af.firebaseio.com",
+    "project_id": "project1-f23af",
+    "storage_bucket": "project1-f23af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996456425689:android:6a33566538fd4b9a",
+        "android_client_info": {
+          "package_name": "com.chriztalk.ionic2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996456425689-mv2r1r7kajatsle38dhvif58tu2jffoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chriztalk.ionic2firebase",
+            "certificate_hash": "91da798660952c64196eb680d7a24bc197476358"
+          }
+        },
+        {
+          "client_id": "996456425689-s5dldq70dauuprsds2g216r0jppc0tdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjSkgsZPdd1cixr8ifeUMpzqvG8XEdzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996456425689-s5dldq70dauuprsds2g216r0jppc0tdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "616770170198",
+    "firebase_url": "https://project1-98ee0.firebaseio.com",
+    "project_id": "project1-98ee0",
+    "storage_bucket": "project1-98ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616770170198:android:6a33566538fd4b9a",
+        "android_client_info": {
+          "package_name": "com.chriztalk.ionic2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616770170198-1umck9055ugpi7bvhafvj03m2kep9jcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVoZwvJwLjuuRN5P7CxBV1TqqRCB8cAUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
